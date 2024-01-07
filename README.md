@@ -44,7 +44,6 @@ Team Smurfs- UMHackathon Finance Domain.ipynb
 
 **2. Making Prediciton using Trained Model**
 ```bash
-Using Trained Model for Prediction:
 Team Smurfs- Bond Price Prediction Dec'2020.ipynb
 ```
 
