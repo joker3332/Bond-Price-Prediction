@@ -1,9 +1,8 @@
-```markdown
 # Bond Price Prediction
+Bond prices are dynamic, influenced by features like interest rates, issuer ratings, and maturity with intricate, often inverse relationships. Precision in prediction requires a comprehensive approach, incorporating these factors into a machine learning model. This holistic strategy captures nuanced interactions, enhancing accuracy in predicting bond prices amidst the evolving financial landscape.
 
 ## Overview
-
-This project is focused on predicting bond prices using [brief description of your approach/methodology]. It leverages [mention any specific technologies or tools you used].
+This project is focused on predicting bond prices using a combination of Long Short-Term Memory (LSTM) and Random Forest methodologies. The LSTM model is utilized for its sequence modeling capabilities, while the Random Forest algorithm provides ensemble learning for robust predictions. The project leverages the powerful combination of these techniques to enhance the accuracy of bond price predictions.
 
 ## Table of Contents
 
