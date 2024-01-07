@@ -37,7 +37,15 @@ pip install -r requirements.txt
 
 ## Usage
 
-[Provide detailed instructions on how to use your project, including any necessary configurations, commands, or examples.]
+Model Training
+'''bash
+Team Smurfs- UMHackathon Finance Domain.ipynb
+'''
+
+'''bash
+Using Trained Model for Prediction:
+Team Smurfs- Bond Price Prediction Dec'2020.ipynb
+'''
 
 ## Contributing
 
