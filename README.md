@@ -37,15 +37,16 @@ pip install -r requirements.txt
 
 ## Usage
 
-Model Training
-'''bash
+**1. Model Training**
+```bash
 Team Smurfs- UMHackathon Finance Domain.ipynb
-'''
+```
 
-'''bash
+**2. Making Prediciton using Trained Model**
+```bash
 Using Trained Model for Prediction:
 Team Smurfs- Bond Price Prediction Dec'2020.ipynb
-'''
+```
 
 ## Contributing
 
