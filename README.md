@@ -1,5 +1,3 @@
-Certainly! Here's a more detailed README.md template for your Bond Price Prediction project on GitHub:
-
 ```markdown
 # Bond Price Prediction
 
