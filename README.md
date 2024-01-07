@@ -59,5 +59,5 @@ We welcome contributions! To contribute to this project, follow these steps:
 
 ## Acknowledgments
 Contributors:
-TAN KUANG JACK
-TIOW KIT KEONG
+1. TAN KUANG JACK
+2. TIOW KIT KEONG
